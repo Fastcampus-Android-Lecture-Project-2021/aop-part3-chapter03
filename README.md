@@ -1,4 +1,4 @@
-# aop-part2-chapter03 -  알람앱
+# aop-part3-chapter03 -  알람앱
 
 # 목차
 
